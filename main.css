@@ -1,19 +1,19 @@
+header {
+  background-color: #2E7D32; /* Dark Green */
+  color: white;
+  text-align: center;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  border-radius: 8px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+}
 
+header img {
+  display: block;
+  margin: 0 auto 10px auto;
+}
 
 h1 {
-  font-size: 40px;
-  font-family: Arial
+  margin: 0;
+  font-size: 24px;
 }
-h2 {
-  font-size: 25px;
-  font-family: Arial
-}
-h3 {
-  font-family: Arial
-}
-p {
-  font-size: 14px;
-  font-family: Arial
-}
-
-
